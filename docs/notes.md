@@ -19,3 +19,22 @@ Maybe mixing ***some butterflies having a good effect and others a bad***.
 
 ###### Links found that might be useful
 https://buildmedia.readthedocs.org/media/pdf/pyweek/latest/pyweek.pdf
+
+## Day 2: 2020-03-23
+###### mucking around with the arcade library
+Small tests with it, nothing very pertinent besides a game window.
+Thinking about designing one level for today.
+![first screenshot](./img/schmetterling0.1.png)
+
+Looked around for some music/sounds.
+
+###### Links found that might be useful
+* Music:
+  * https://opengameart.org/content/soft-mysterious-harp-loop for the menu (or the first level if no menu)
+  * https://opengameart.org/content/temple-of-the-mystics for another level (or the first if menu) (but lower volume)
+* Sounds:
+  * https://opengameart.org/content/shimmer-glitter-magic
+  * https://opengameart.org/content/completion-sound
+  * https://opengameart.org/content/level-up-power-up-coin-get-13-sounds
+  * https://opengameart.org/content/bell-dingschimes
+
